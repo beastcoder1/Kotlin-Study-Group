@@ -9,5 +9,5 @@ fun main(args:Array<String>)
 
 fun getSquares(word:String)
 {
-   //Complete this function to solve the question.
+   
 }
