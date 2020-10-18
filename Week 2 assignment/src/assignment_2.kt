@@ -9,5 +9,10 @@ fun main(args:Array<String>)
 
 fun getSquares(word:String)
 {
-   //Complete this function to solve the question.
+   //Complete this function to solve the question. Alright! 
+   Val numbers = arrayOf(word)
+   numbers.forEachIndexed(){index, number ->
+         var times = number*2 
+         Print(" $index ( $number = $times )   ")
+   }
 }
