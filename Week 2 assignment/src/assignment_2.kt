@@ -8,6 +8,16 @@ fun main(args:Array<String>)
 }
 
 fun getSquares(word:String)
-{
+{ 
+    val myList = word.split(" ")
+    val myMap = mutableMapOf<Int, Int>()
+    for (i in myList) {
+        var p = i.toInt()
+        var square = i.toInt()*i.toInt()
+        myMap.put(key = p, value = square)
+    }
+    println(myMap)
+
+    
    //Complete this function to solve the question.
 }
