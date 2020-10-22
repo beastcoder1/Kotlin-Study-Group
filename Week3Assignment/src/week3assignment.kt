@@ -20,25 +20,3 @@ fun main(args:Array<String>)
 
 * */
 
-open class Person(var name:String,var age:String?)
-{
-
-    fun personDetails()
-    {
-        println("My name is $name and I am $age years old")
-    }
-
-
-}
-
-class Student(name: String,age: String?) : Person(name,age)
-{
-    var school:String? = null
-    get() {return field}
-    set(value) {field = value;}
-
-    fun studentDetails()
-    {
-        println("I am a student of $school")
-    }
-}
