@@ -28,6 +28,20 @@ fun main(args:Array<String>)
 
     student.studentDetails()
 }
+open class Person(var name : String = "", var age: String = "0"){
+
+    fun personDetails(){
+        println("My name is $name and I am $age years old");
+    }
+}
+class Student(var newname : String = "", var newage: String = "0"): Person(newname,newage){
+
+    var school : String = ""
+
+    fun studentDetails(){
+        println("I am a student of $school");
+    }
+}
 
 /*
     Expected output
