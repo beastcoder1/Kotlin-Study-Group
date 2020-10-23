@@ -1,3 +1,21 @@
+open class Person( open var name: String, open var age: String) {
+
+    fun personDetails() = println("My name is $name and I am $age years old")
+
+}
+
+class Student(override var name: String, override var age: String) :Person(name, age) {
+    var school: String = "defaultValue"
+        get() = field
+
+        set(value) {
+            field = value
+        }
+
+    fun studentDetails() = println("I am a student of $school")
+
+}
+
 fun main(args:Array<String>)
 {
     var person = Person("osemudiamen Itua", "67")
