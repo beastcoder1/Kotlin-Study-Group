@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acdf2b1f-34e2-4bbb-b9b7-8cac46693d6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Kotlin-Study-Group.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3Assignment/src/submisisons.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week3Assignment/src/submisisons.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3Assignment/src/week3assignment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Week3Assignment/src/week3assignment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,7 +39,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603298088781</updated>
+      <workItem from="1603557863441" duration="55000" />
+      <workItem from="1603558179996" duration="328000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="187" key="#Notifications" timestamp="1603557916505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1603557916505" />
   </component>
 </project>
